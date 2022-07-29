@@ -18,7 +18,7 @@ Los requisitos para aprovechar el sprint son:
 ## Preparación para el sprint
 En caso de ser la primera vez que se contribuye a un proyecto de código libre o si se quiere refrescar algunos conocimientos, recomendamos seguir los siguientes pasos:
 - Crear cuenta de [GitHub](https://github.com/).
-- Instalar Python. Para configurar el ambiente de desarrollo utilizaremos `conda`, por lo que recomendamos utilizar [miniconda](https://docs.conda.io/en/latest/miniconda.html) para instalar Python y conda (el administrador de paquetes).
+- Instalar Python. Para configurar el ambiente de desarrollo utilizaremos `conda`, por lo que recomendamos utilizar [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 - Instalar [Git](https://git-scm.com/).
 - Instalar editor de texto (Visual Studio Code, Sublime Text, Atom, PyCharm, o el editor de preferencia).
 - Mirar el video ["Scikit-learn sprint instructions"](https://www.youtube.com/watch?v=5OL8XoMMOfA) (30 minutos). [Transcripción del video en español](https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint/blob/master/es/1_transcript_ACM_contributing_sklearn.md). Notar que las instrucciones de instalación han quedado desactualizadas. Para instalar todo lo necesario para contribuir, seguir [esta guía](https://scikit-learn.org/dev/developers/advanced_installation.html) (en ingles).
@@ -111,6 +111,15 @@ git push origin my_feature
 # Una vez que el pull request es mergeado se puede borrar el branch
 git branch -d my_feature
 ```
+
+## Pull Request (PR) checklist
+Se recomienda seguir los siguientes pasos para realizar el Pull Request:
+- Asignar un título útil al PR que resuma lo que hace su contribución. Algo como “Fix <ISSUE TITLE>” está bien. Pero ~“Fix #<ISSUE NUMBER>”~ no es claro.
+- Asegurarse que el código pase los tests.
+- Asegurarse que el código esté correctamente comentado y documentado.
+- Controlar que la documentación generada se visualice correctamente. Para ello es necesario compilar la documentación.
+- Asegurarse que todos los controles realizados por `pre-commit` hayan pasado.
+- Ser paciente con los revisores del PR. La mayoría colabora con el proyecto en sus tiempos libres.
 
 ## Posibles Issues donde contribuir
 Los desarrolladores de Scikit-learn han armado una [lista de Issues](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3ASprint) para trabajar durante el sprint.
