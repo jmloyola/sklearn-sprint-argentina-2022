@@ -125,6 +125,18 @@ Se recomienda seguir los siguientes pasos para realizar el Pull Request:
 Los desarrolladores de Scikit-learn han armado una [lista de Issues](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3ASprint) para trabajar durante el sprint.
 La misma contiene Issues de distinta dificultad y en su mayoría pueden ser resueltos en el tiempo del sprint.
 
+## Preguntas frecuentes
+- ¿Necesito llevar una notebook para participar?
+	> En caso de disponer de notebook y poder llevarla, es recomendable hacerlo. Pero, como la idea es trabajar en equipo, aquellos que no puedan llevar una pueden hacer equipo con personas que si la hayan llevado.
+- ¿Es necesario tener conocimientos de Aprendizaje Automático (_Machine Learning_ en inglés) para participar del sprint?
+	> No, no es necesario. Se puede colaborar en aspectos generales del proyecto que no requieran de este conocimiento.
+- ¿Tengo que tener algún issue seleccionado en el que trabajar antes del sprint?
+	> En caso de ya tener un issue visto se puede trabajar en eso durante el sprint. De otra forma, se puede elegir alguno de los separados por los desarrolladores para el sprint.
+- ¿Que lenguaje de programación se va a utilizar?
+	> Python, dado que Scikit-learn se encuentra principalmente desarrollado en este lenguaje.
+- ¿Que nivel de programación necesito?
+	> Con un conocimiento básico de programación es suficiente. Durante el sprint se puede trabajar en diferentes aspectos del proyecto: código, documentación, sitio web, etc.
+
 ## Contacto
 - [Scikit-learn Gitter](https://gitter.im/scikit-learn/sprint) (comunicación en inglés)
 - Organizador local: [Juan Martin Loyola](mailto:jmloyola@outlook.com)
