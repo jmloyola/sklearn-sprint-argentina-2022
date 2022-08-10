@@ -152,8 +152,8 @@ Además, seleccionan recursos sobre ciencia de datos y prácticas inclusivas par
 Todos los niveles son bienvenidos, principiantes y expertos.
 
 Para más información sobre Data Umbrella, pueden acceder a los siguientes sitios:
-- Meetup: https://www.meetup.com/data-umbrella/events
-- YouTube: https://www.youtube.com/c/DataUmbrella
+- [Meetup](https://www.meetup.com/data-umbrella/events)
+- [YouTube](https://www.youtube.com/c/DataUmbrella)
 
 <p align="center">
 	<img src="https://github.com/data-umbrella/info/blob/master/logos/data-umbr-full-transp-logo.png" alt="Data Umbrella logo" width="20%" height="20%">
