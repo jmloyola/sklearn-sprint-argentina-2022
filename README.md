@@ -1,12 +1,16 @@
 # Sprint scikit-learn - Salta, Argentina - Septiembre 2022
 
+<p align="center">
+<img src="https://pythoncientifico.ar/static/assets/images/scipy-la-2022_logo.png" alt="SciPy logo" width="50%" height="50%">
+</p>
+
 Un sprint es un evento donde un conjunto de personas se juntan para contribuir a un proyecto de software. En general, se lleva a cabo a lo largo de un día, en un período de 6 a 8 horas. El objetivo de la actividad depende del perfil de personas al que está dirigido. Si el sprint está dirigido a personas que están comenzando a contribuir a proyectos de código libre, el objetivo es introducirlos en los distintos pasos que deben seguir para comenzar a colaborar en un proyecto. Si el sprint está dirigido a desarrolladores experimentados en el proyecto particular, el objetivo es concentrar sus energías en la solución de una serie de errores o la implementación de nuevas funcionalidades. En este caso, llevaremos a cabo un sprint para personas que están dando sus primeros pasos en el mundo del código abierto.
 
 En el sprint cada persona puede trabajar de forma individual en las partes del proyecto que considere interesante. Pero, cabe destacar que, uno de los aspectos principales de los sprints es su carácter colaborativo. Así, se alienta a los participantes a reunirse de a pares para trabajar. Ésto hace más amena la experiencia del sprint, fomenta la colaboración y permite ampliar la red de contactos de los participantes. Esta forma de trabajar se conoce con el nombre de programación de a pares ("pair programming"). Un enfoque comúnmente utilizado de programación de a pares es la técnica de [conductor-navegador](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389), donde el conductor escribe el código, mientras el navegador observa, verifica o sugiere cambios. A lo largo de la jornada, las personas pueden intercambiar roles a medida que lo sientan necesario. En general, es conveniente que la persona más experimentada sea la que tome el rol de navegadora, mientras la persona que está dando sus primeros pasos sea la que maneja el teclado y mouse (conductora). Esto garantiza que ninguno de los miembros del equipo se pierda durante el desarrollo.
 
 El sprint se basará en el proyecto de código abierto [scikit-learn](https://github.com/scikit-learn/scikit-learn/). Scikit-learn es una librería de aprendizaje automático de código abierto que permite aplicar métodos del aprendizaje supervisado y no supervisado. También proporciona varias herramientas para el ajuste de modelos, preprocesamiento de datos, selección de modelos, evaluación de modelos y muchas otras utilidades.
 
-El sprint contará con la presencia (física y virtual) de desarrolladores del proyecto que brindarán soporte durante el evento, contestando preguntas, ayudando con problemas y revisando los "Pull Requests". Los desarrolladores, previo al sprint, filtrarán "Issues" aptos para personas que están empezando a contribuir. Además, se contará con mentores que no necesariamente son experimentados en el código fuente de scikit-learn, pero que con sus conocimientos pueden ayudar a resolver problemas con Git u otras herramientas generales como pre-commit, black o pytest. De esta forma, los sprint suelen ser sumamente beneficiosos para los participantes, ya que se reduce sustancialmente el tiempo que uno se encuentra "trabado" con algo (comparado con intentar empezar a colaborar individualmente, sin ayuda).
+El sprint contará con la presencia (física y virtual) de desarrolladores del proyecto y miembros de la comunidad [Data Umbrella](http://www.dataumbrella.org/) que brindarán soporte durante el evento, contestando preguntas, ayudando con problemas y revisando los "Pull Requests". Los desarrolladores, previo al sprint, filtrarán "Issues" aptos para personas que están empezando a contribuir. Además, se contará con mentores que no necesariamente son experimentados en el código fuente de scikit-learn, pero que con sus conocimientos pueden ayudar a resolver problemas con Git u otras herramientas generales como pre-commit, black o pytest. De esta forma, los sprint suelen ser sumamente beneficiosos para los participantes, ya que se reduce sustancialmente el tiempo que uno se encuentra "trabado" con algo (comparado con intentar empezar a colaborar individualmente, sin ayuda).
 
 ## Requisitos
 Los requisitos para aprovechar el sprint son:
@@ -137,9 +141,24 @@ La misma contiene Issues de distinta dificultad y en su mayoría pueden ser resu
 - ¿Que nivel de programación necesito?
 	> Con un conocimiento básico de programación es suficiente. Durante el sprint se puede trabajar en diferentes aspectos del proyecto: código, documentación, sitio web, etc.
 
+## Calendario de scikit-learn
+En caso de querer continuar participando de eventos organizados por el proyecto una vez terminado el Sprint, pueden seguir el [calendario de scikit-learn](https://blog.scikit-learn.org/calendar/).
+
+## Data Umbrella
+Data Umbrella es una comunidad global para personas poco representadas en ciencia de datos.
+Se encarga de organizar charlas en línea con expertos en ciencia de datos y bibliotecas de código abierto.
+Organizan sprints/hackathons de código abierto.
+Además, seleccionan recursos sobre ciencia de datos y prácticas inclusivas para la comunidad.
+Todos los niveles son bienvenidos, principiantes y expertos.
+
+Para más información sobre Data Umbrella, pueden acceder a los siguientes sitios:
+- Meetup: https://www.meetup.com/data-umbrella/events
+- YouTube: https://www.youtube.com/c/DataUmbrella
+
+<p align="center">
+	<img src="https://github.com/data-umbrella/info/blob/master/logos/data-umbr-full-transp-logo.png" alt="Data Umbrella logo" width="20%" height="20%">
+</p>
+
 ## Contacto
 - [Scikit-learn Gitter](https://gitter.im/scikit-learn/sprint) (comunicación en inglés)
 - Organizador local: [Juan Martin Loyola](mailto:jmloyola@outlook.com)
-
-## Calendario de scikit-learn
-En caso de querer continuar participando de eventos organizados por el proyecto una vez terminado el Sprint, pueden seguir el [calendario de scikit-learn](https://blog.scikit-learn.org/calendar/).
