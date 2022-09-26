@@ -161,5 +161,5 @@ Para más información sobre Data Umbrella, pueden acceder a los siguientes siti
 
 ## Contacto
 - [Scikit-learn Gitter](https://gitter.im/scikit-learn/sprint) (comunicación en inglés)
-- [Discord Data Umbrella](https://discord.gg/UR2Rz4tJ) (pueden utilizar este canal para hacer preguntas en español)
+- [Discord Data Umbrella](https://discord.gg/UR2Rz4tJ) (pueden utilizar este canal para hacer preguntas en español). Una vez hayan ingresado, pueden escribir un mensaje privado a Juan Martín Loyola en Discord (jmloyola#8427) para ser agregados al rol con privilegios para hablar en las mesas de audio.
 - Organizador local: [Juan Martin Loyola](mailto:jmloyola@outlook.com)
