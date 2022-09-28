@@ -74,7 +74,7 @@ Comandos normalmente utilizados para hacer un Pull Request:
 git checkout main
 # En caso de que nuestro fork no esté actualizado con lo último del repositorio hacemos:
 git fetch upstream
-git merge upstream main
+git merge upstream/main
 # Creamos una rama para hacer todos los cambios
 git checkout -b my_feature
 # Hacemos los cambios para el Pull Request
